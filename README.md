@@ -6,7 +6,7 @@ CLick on the hyperlinks to see any code I wrote for that section
 
 Bedfile generation, Basecalling and read maping
 
-Adaptive Sampling
+[Adaptive Sampling](https://github.com/hansa436/Nanopore-Sequencing-for-Colorectal-Cancer/blob/main/Adaptive_sampling.md) 
 
 Methylation
 
