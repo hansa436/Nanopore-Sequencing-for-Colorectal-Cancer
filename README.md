@@ -8,7 +8,7 @@ Bedfile generation, Basecalling and read maping
 
 [Adaptive Sampling](https://github.com/hansa436/Nanopore-Sequencing-for-Colorectal-Cancer/blob/main/Adaptive_sampling.md) 
 
-Methylation
+[Methylation](https://github.com/hansa436/Nanopore-Sequencing-for-Colorectal-Cancer/blob/main/Methylation.md)
 
 BRAF V600E extraction
 
