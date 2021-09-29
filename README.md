@@ -2,7 +2,7 @@
 
 Welcome to my github created for my honours project
 
-CLick on the hyperlinks to see any code I wrote for that section
+Click on the hyperlinks to see any code I wrote for that section
 
 Bedfile generation, Basecalling and read maping
 
@@ -10,5 +10,5 @@ Bedfile generation, Basecalling and read maping
 
 [Methylation](https://github.com/hansa436/Nanopore-Sequencing-for-Colorectal-Cancer/blob/main/Methylation.md)
 
-BRAF V600E extraction
+[BRAF V600E extraction](https://github.com/hansa436/Nanopore-Sequencing-for-Colorectal-Cancer/blob/main/BRAF_V600E.md)
 
